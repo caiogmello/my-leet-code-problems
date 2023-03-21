@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/my-leet-code-problems.iml" filepath="$PROJECT_DIR$/.idea/my-leet-code-problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1/p1.iml" filepath="$PROJECT_DIR$/p1/p1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p13/p13.iml" filepath="$PROJECT_DIR$/p13/p13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p14/p14.iml" filepath="$PROJECT_DIR$/p14/p14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p20/p20.iml" filepath="$PROJECT_DIR$/p20/p20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p21/p21.iml" filepath="$PROJECT_DIR$/p21/p21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2187/p2187.iml" filepath="$PROJECT_DIR$/p2187/p2187.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p26/p26.iml" filepath="$PROJECT_DIR$/p26/p26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p383/p383.iml" filepath="$PROJECT_DIR$/p383/p383.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p412/p412.iml" filepath="$PROJECT_DIR$/p412/p412.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p876/p876.iml" filepath="$PROJECT_DIR$/p876/p876.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p9/p9.iml" filepath="$PROJECT_DIR$/p9/p9.iml" />
+    </modules>
+  </component>
+</project>
